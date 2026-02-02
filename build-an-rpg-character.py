@@ -1,4 +1,4 @@
-** start of main.py **
+
 
 full_dot = '●'
 empty_dot = '○'
@@ -24,5 +24,5 @@ def create_character(name, strength, intelligence, charisma):
 text = create_character('ren', 4, 2, 1)
 print(text)
 
-** end of main.py **
+
 

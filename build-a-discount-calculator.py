@@ -1,4 +1,4 @@
-** start of main.py **
+
 
 def apply_discount(price, discount):
     if not isinstance(price, (int, float)):
@@ -12,5 +12,5 @@ def apply_discount(price, discount):
     return price - price * discount / 100
 
 
-** end of main.py **
+
 
